@@ -1,0 +1,19 @@
+name: metabolomics-analysis
+dependencies:
+  - python=3.9
+  - jupyterlab=3.3.2
+  - notebook=6.4.11
+  - matplotlib=3.5.1
+  - numpy=1.19.5
+  - scipy=1.8.1
+  - openpyxl=3.0.9
+  - pandas=1.4.2
+  - pytest=7.1.1
+  - scikit-learn=1.0.2
+  - seaborn=0.11.2
+  - statsmodels=0.13.2
+  - xlrd=2.0.1
+  - pip
+  - pip:
+    - pymzml==2.4.7
+    - scikit-bio==0.5.7
