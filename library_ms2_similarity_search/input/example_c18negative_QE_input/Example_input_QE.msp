@@ -1,0 +1,336 @@
+Name: IS_GLUCOSE-1,2,3,4,5,6,6-D7
+Precursor_mz: 186.100024
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: WQZGKKKJIJFFOK-QCQRZMBHSA-N
+SMILES: C(C1C(C(C(C(O1)O)O)O)O)O
+Formula: C6H12O6
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 22
+59.0137,53
+60.02008,496
+61.02629,1000
+68.62632,26
+72.02028,245
+73.02636,461
+73.99946,33
+74.03281,138
+77.83348,23
+81.56016,26
+89.0546,41
+90.03053,62
+91.03693,272
+92.04318,274
+93.04964,242
+104.04327,86
+105.04948,130
+116.04323,27
+117.04961,167
+124.06639,322
+136.35278,22
+162.89946,31
+
+Name: IS_2-FLUROPHENYLGLYCINE
+Precursor_mz: 168.046624
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: VCJRLZZBUWJOGG-UHFFFAOYSA-N
+SMILES: C1=CC=C(C(=C1)NCC(=O)O)F
+Formula: C8H8FNO2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 12
+63.22372,728
+71.68898,814
+95.19085,751
+110.02588,765
+125.72693,902
+134.73602,750
+140.0545,721
+148.99956,714
+149.20935,787
+150.28194,1000
+153.64165,780
+165.13728,890
+
+Name: IS_METHIONINE-METHYL-D3
+Precursor_mz: 151.062624
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: FFEARJCKVFRZRR-OSIBIXDNSA-N
+SMILES: CSCCC(C(=O)O)N
+Formula: C5H11NO2S
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 10
+50.00824,23
+50.01466,1000
+61.9816,14
+92.29117,8
+99.92638,7
+100.04042,130
+116.31763,7
+144.19643,9
+151.0267,15
+151.06252,358
+
+Name: IS_LEUCINE-5,5,5-D3
+Precursor_mz: 133.106224
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: ROHFNLRQFUQHCH-LONBSJBQSA-N
+SMILES: CC(C)CC(C(=O)O)N
+Formula: C6H13NO2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 1
+133.10619,1000
+
+Name: IS_TRYPTOPHAN-2,4,5,6,7-D5
+Precursor_mz: 208.114024
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: QIVBCDIJIAJPQS-HLTLGYGQSA-N
+SMILES: C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N
+Formula: C11H12N2O2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 17
+72.00909,146
+73.01533,60
+74.0247,47
+75.03101,102
+76.03719,6
+119.06915,25
+120.07558,334
+121.08189,244
+134.09131,9
+145.0849,21
+146.09119,103
+147.09741,30
+161.10204,5
+164.12415,181
+190.08061,21
+191.08722,17
+208.11391,1000
+
+Name: IS_N-BENZOYL-D5-GLYCINE
+Precursor_mz: 183.082324
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: QIAFMBKCNZACKA-RALIUCGRSA-N
+SMILES: C1=CC=C(C=C1)C(=O)NCC(=O)O
+Formula: C9H9NO3
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 9
+56.5024,6
+62.58193,7
+88.99509,7
+121.78092,6
+126.06061,8
+136.0706,10
+139.09244,995
+182.35345,7
+183.08223,1000
+
+Name: IS_4-CHLORO-PHENYLALANINE
+Precursor_mz: 198.032724
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: NIGWMJHCCYYCSF-QMMMGPOBSA-N
+SMILES: C1=CC(=CC=C1CC(C(=O)O)N)Cl
+Formula: C9H10ClNO2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 7
+72.00911,256
+125.0163,71
+137.01628,122
+152.02687,12
+169.00604,6
+181.00612,1000
+198.03275,665
+
+Name: IS_4-BROMO-PHENYLALANINE
+Precursor_mz: 241.982224
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: PEMUHKUIQHFMTH-QMMMGPOBSA-N
+SMILES: C1=CC(=CC=C1CC(C(=O)O)N)Br
+Formula: C9H10BrNO2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 6
+72.00911,258
+78.91888,783
+96.92946,10
+168.96594,23
+224.95561,1000
+241.98228,924
+
+Name: IS_INDOLE-2,4,5,6,7-D5-3-ACETIC ACID
+Precursor_mz: 179.087424
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: SEOVTRFCIGRIMH-SNOLXCFTSA-N
+SMILES: C1=CC=C2C(=C1)C(=CN2)CC(=O)O
+Formula: C10H9NO2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 10
+50.63495,21
+57.79697,18
+60.56434,21
+62.39212,17
+83.99112,21
+104.9094,21
+111.35899,18
+135.09767,1000
+140.16525,18
+179.08748,491
+
+Name: IS_D15-OCTANOIC ACID
+Precursor_mz: 158.201924
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: WWZKQHOCKIZLMA-PMELWRBQSA-N
+SMILES: CCCCCCCC(=O)O
+Formula: C8H16O2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 1
+158.2018,1000
+
+Name: IS_D19-DECANOIC ACID
+Precursor_mz: 190.258324
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: GHVNFZFCNZKVNT-KIJKOTCYSA-N
+SMILES: CCCCCCCCCC(=O)O
+Formula: C10H20O2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 1
+190.25821,1000
+
+Name: IS_TRIDECANOIC ACID
+Precursor_mz: 213.186024
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: SZHOJFHSIKHZHA-UHFFFAOYSA-N
+SMILES: CCCCCCCCCCCCC(=O)O
+Formula: C13H26O2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 2
+213.08026,15
+213.186,1000
+
+Name: IS_D27-TETRADECANOIC ACID
+Precursor_mz: 254.371124
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: TUNFSRHWOTWDNC-RZVOLPTOSA-N
+SMILES: CCCCCCCCCCCCCC(=O)O
+Formula: C14H28O2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 1
+254.37103,1000
+
+Name: IS_PHENYLALANINE-2,3,4,5,6-D5
+Precursor_mz: 169.103124
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: COLNVLDHVKWLRT-HRVDQBBZSA-N
+SMILES: C1=CC=C(C=C1)CC(C(=O)O)N
+Formula: C9H11NO2
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 9
+58.60976,5
+72.00911,231
+96.08663,17
+106.07416,5
+124.08102,7
+151.06956,6
+151.09245,7
+152.07645,984
+169.10301,1000
+
+Name: IS_4-HYDROXYPHENYL-D4-ALANINE
+Precursor_mz: 184.091724
+Precursor_type: [M-H]-
+Spectrum_type: MS2
+Instrument_type: LC-ESI-QFT
+Instrument: Thermo Q Exactive HF
+InChIKey: OUYCCCASQSFEME-FCDGGRDXSA-N
+SMILES: C1=CC(=CC=C1CC(C(=O)O)N)O
+Formula: C9H11NO3
+Ion_mode: negative
+Collision_energy: HCD (NCE 20-30-40%)
+Comments: Sonnenburg Lab MS2 Library
+Num Peaks: 18
+61.36031,11
+61.59135,12
+72.00899,96
+73.01532,17
+96.05306,54
+97.05972,70
+110.06832,13
+116.68108,10
+122.06897,45
+123.07526,168
+141.00174,80
+141.01639,12
+143.67967,13
+156.01285,13
+166.05852,33
+167.06511,444
+184.00748,318
+184.0916,1000
+

@@ -1,0 +1,7 @@
+name: metabolomics-analysis-matchms
+dependencies:
+  - python=3.9
+  - openpyxl=3.0.10
+  - pip
+  - pip:
+    - matchms==0.24.0
